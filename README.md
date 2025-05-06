@@ -14,7 +14,6 @@ export ANTHROPIC_API_KEY='your_anthropic_api_key'
 export OPENAI_API_KEY='your_openai_api_key'
 export GEMINI_API_KEY='your_gemini_api_key'
 export LLAMA_API_URL='http://localhost:11434/api/generate'  # For Ollama Llama3 model
-export MISTRAL_API_URL='http://localhost:11434/api/generate'  # For Ollama Mistral model
 ```
 
 ## Usage
