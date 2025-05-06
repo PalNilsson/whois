@@ -1,0 +1,8 @@
+anthropic
+openai
+google-generativeai
+fastapi
+uvicorn[standard]
+pydantic
+requests
+fastmcp
